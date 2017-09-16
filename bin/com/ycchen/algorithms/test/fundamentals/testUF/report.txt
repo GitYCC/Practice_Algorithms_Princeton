@@ -1,0 +1,36 @@
+PathCompressionUF_L.txt
+Elapsed Time: 1228.982 sec
+
+PathCompressionUF_M.txt
+Elapsed Time: 0.06 sec
+
+PathCompressionUF_T.txt
+Elapsed Time: 0.004 sec
+
+QuickFind_L.txt
+Elapsed Time: 1227.501 sec
+
+QuickFind_M.txt
+Elapsed Time: 0.059 sec
+
+QuickFind_T.txt
+Elapsed Time: 0.003 sec
+
+QuickUnionUF_L.txt
+Elapsed Time: 1254.097 sec
+
+QuickUnionUF_M.txt
+Elapsed Time: 0.061 sec
+
+QuickUnionUF_T.txt
+Elapsed Time: 0.004 sec
+
+WeightedQuickUnionUF_L.txt
+Elapsed Time: 1235.701 sec
+
+WeightedQuickUnionUF_M.txt
+Elapsed Time: 0.06 sec
+
+WeightedQuickUnionUF_T.txt
+Elapsed Time: 0.003 sec
+
